@@ -1,0 +1,24 @@
+{
+  "name": "notioneconcal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realBlueVein/notionEconCal.git"
+  },
+  "author": "James Slattery",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/realBlueVein/notionEconCal/issues"
+  },
+  "homepage": "https://github.com/realBlueVein/notionEconCal#readme",
+  "dependencies": {
+    "@notionhq/client": "^0.2.0",
+    "dotenv": "^10.0.0",
+    "request": "^2.88.2"
+  }
+}
